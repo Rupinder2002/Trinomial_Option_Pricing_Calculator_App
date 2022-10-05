@@ -1,4 +1,3 @@
-anaconda-navigator
 conda
 conda-build
 conda-verify==3.4.2
