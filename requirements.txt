@@ -1,6 +1,0 @@
-ipywidgets
-ipython
-numpy
-math
-voila
-
