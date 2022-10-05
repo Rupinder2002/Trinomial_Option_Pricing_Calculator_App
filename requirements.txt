@@ -1,6 +1,6 @@
-conda
-conda-build
-conda-verify==3.4.2
-pandas==1.4.3
-voila==0.3.6
+ipywidgets
+ipython
+numpy
+math
+voila
 
