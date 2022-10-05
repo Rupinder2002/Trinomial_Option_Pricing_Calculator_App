@@ -1,13 +1,13 @@
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+#alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda==0.0.1.1
-anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
+#anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
 anaconda-navigator==2.1.1
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
+#anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
 anyio==3.6.1
 appdirs==1.4.4
 arch==5.2.0
 argh==0.26.2
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
+#argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
 arrow @ file:///C:/ci/arrow_1617738834352/work
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
 astroid @ file:///C:/ci/astroid_1628063282661/work
