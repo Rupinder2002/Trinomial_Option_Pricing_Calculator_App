@@ -1,6 +1,6 @@
-anaconda-navigator==2.1.1
-conda==22.9.0
-conda-build==3.21.6
+anaconda-navigator
+conda
+conda-build
 conda-verify==3.4.2
 pandas==1.4.3
 voila==0.3.6
