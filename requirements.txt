@@ -1,7 +1,7 @@
 #alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda==0.0.1.1
 #anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
-anaconda-navigator==2.1.1
+#anaconda-navigator==2.1.1
 #anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
 anyio==3.6.1
 appdirs==1.4.4
