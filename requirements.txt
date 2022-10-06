@@ -1,110 +1,110 @@
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+#alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda==0.0.1.1
-anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
+#anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
 anaconda-navigator==2.1.1
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
+#anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
 anyio==3.6.1
 appdirs==1.4.4
 arch==5.2.0
 argh==0.26.2
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
-arrow @ file:///C:/ci/arrow_1617738834352/work
-asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
-astroid @ file:///C:/ci/astroid_1628063282661/work
-astropy @ file:///C:/ci/astropy_1629829318700/work
-async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+#argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
+#arrow @ file:///C:/ci/arrow_1617738834352/work
+#asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
+#astroid @ file:///C:/ci/astroid_1628063282661/work
+#astropy @ file:///C:/ci/astropy_1629829318700/work
+#async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 atomicwrites==1.4.0
-attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
-autopep8 @ file:///tmp/build/80754af9/autopep8_1620866417880/work
+#attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+#autopep8 @ file:///tmp/build/80754af9/autopep8_1620866417880/work
 Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
-backports.shutil-get-terminal-size @ file:///tmp/build/80754af9/backports.shutil_get_terminal_size_1608222128777/work
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
+#backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+#backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
+#backports.shutil-get-terminal-size @ file:///tmp/build/80754af9/backports.shutil_get_terminal_size_1608222128777/work
+#backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
-bcrypt @ file:///C:/ci/bcrypt_1607022693089/work
-beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1631874778482/work
-binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
-bitarray @ file:///C:/ci/bitarray_1629133068652/work
+#bcrypt @ file:///C:/ci/bcrypt_1607022693089/work
+#beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1631874778482/work
+#binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
+#bitarray @ file:///C:/ci/bitarray_1629133068652/work
 bkcharts==0.2
 black==19.10b0
-bleach @ file:///tmp/build/80754af9/bleach_1628110601003/work
-bokeh @ file:///C:/ci/bokeh_1635306491714/work
+#bleach @ file:///tmp/build/80754af9/bleach_1628110601003/work
+#bokeh @ file:///C:/ci/bokeh_1635306491714/work
 boto==2.49.0
-Bottleneck @ file:///C:/ci/bottleneck_1607557040328/work
+#Bottleneck @ file:///C:/ci/bottleneck_1607557040328/work
 brotlipy==0.7.0
 bs4==0.0.1
 c==0.0.1
-cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
-cachetools==5.2.0
+#cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
+#cachetools==5.2.0
 calmap==0.0.9
 certifi==2022.5.18.1
-cffi @ file:///C:/ci/cffi_1625831756778/work
-chardet @ file:///C:/ci/chardet_1607706937985/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+#cffi @ file:///C:/ci/cffi_1625831756778/work
+#chardet @ file:///C:/ci/chardet_1607706937985/work
+#charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.0.3
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+#cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
 clyent==1.2.2
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+#colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 commonmark==0.9.1
 comtypes==1.1.10
 conda==22.9.0
 conda-build==3.21.6
-conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
-conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
-conda-package-handling @ file:///C:/ci/conda-package-handling_1618262410900/work
-conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
-conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
+#conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+#conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
+#conda-package-handling @ file:///C:/ci/conda-package-handling_1618262410900/work
+#conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
+#conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
 conda-verify==3.4.2
-contextlib2 @ file:///Users/ktietz/demo/mc3/conda-bld/contextlib2_1630668244042/work
-cookiecutter @ file:///tmp/build/80754af9/cookiecutter_1617748928239/work
-cryptography @ file:///C:/ci/cryptography_1633520531101/work
+#contextlib2 @ file:///Users/ktietz/demo/mc3/conda-bld/contextlib2_1630668244042/work
+#cookiecutter @ file:///tmp/build/80754af9/cookiecutter_1617748928239/work
+#cryptography @ file:///C:/ci/cryptography_1633520531101/work
 cssselect==1.1.0
 cycler==0.10.0
-Cython @ file:///C:/ci/cython_1636018292912/work
+#Cython @ file:///C:/ci/cython_1636018292912/work
 cytoolz==0.11.0
 daal4py==2021.3.0
 dask==2021.10.0
-debugpy @ file:///C:/ci/debugpy_1629222819322/work
-decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
-distributed @ file:///C:/ci/distributed_1635968318313/work
+#debugpy @ file:///C:/ci/debugpy_1629222819322/work
+#decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+#defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+#diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
+#distributed @ file:///C:/ci/distributed_1635968318313/work
 docopt==0.6.2
-docutils @ file:///C:/ci/docutils_1620828264669/work
+#docutils @ file:///C:/ci/docutils_1620828264669/work
 entrypoints==0.3
 et-xmlfile==1.1.0
 fake-useragent==0.1.11
 falcon==3.1.0
-fastcache @ file:///C:/ci/fastcache_1607571310570/work
+#fastcache @ file:///C:/ci/fastcache_1607571310570/work
 fastjsonschema==2.16.2
 ffmpeg==1.4
-filelock @ file:///tmp/build/80754af9/filelock_1635402558181/work
-flake8 @ file:///tmp/build/80754af9/flake8_1620776156532/work
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+#filelock @ file:///tmp/build/80754af9/filelock_1635402558181/work
+#flake8 @ file:///tmp/build/80754af9/flake8_1620776156532/work
+#Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
 fonttools==4.25.0
-fsspec @ file:///tmp/build/80754af9/fsspec_1636116461911/work
-future @ file:///C:/ci/future_1607568713721/work
-gevent @ file:///C:/ci/gevent_1628273776273/work
-glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
+#fsspec @ file:///tmp/build/80754af9/fsspec_1636116461911/work
+#future @ file:///C:/ci/future_1607568713721/work
+#gevent @ file:///C:/ci/gevent_1628273776273/work
+#glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 google-auth==2.7.0
 google-auth-oauthlib==0.5.2
-greenlet @ file:///C:/ci/greenlet_1628888275363/work
+#greenlet @ file:///C:/ci/greenlet_1628888275363/work
 gspread==5.4.0
 gspread-dataframe==3.3.0
-h5py @ file:///C:/ci/h5py_1622088609188/work
+#h5py @ file:///C:/ci/h5py_1622088609188/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
 iam-units==2022.6.14
-idna @ file:///tmp/build/80754af9/idna_1622654382723/work
-imagecodecs @ file:///C:/ci/imagecodecs_1635511087451/work
-imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
-imagesize @ file:///Users/ktietz/demo/mc3/conda-bld/imagesize_1628863108022/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1631916826748/work
+#idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+#imagecodecs @ file:///C:/ci/imagecodecs_1635511087451/work
+#imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
+#imagesize @ file:///Users/ktietz/demo/mc3/conda-bld/imagesize_1628863108022/work
+#importlib-metadata @ file:///C:/ci/importlib-metadata_1631916826748/work
 inflection==0.5.1
-iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
-intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
-ipykernel @ file:///C:/ci/ipykernel_1633545585502/work/dist/ipykernel-6.4.1-py3-none-any.whl
+#iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+#intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
+#ipykernel @ file:///C:/ci/ipykernel_1633545585502/work/dist/ipykernel-6.4.1-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1635944283918/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
