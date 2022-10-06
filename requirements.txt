@@ -97,8 +97,8 @@ HeapDict==1.0.1
 html5lib==1.1
 iam-units==2022.6.14
 idna==3.2
-imagecodecs==2021.8.26
-imageio==2.9.0
+#imagecodecs==2021.8.26
+#imageio==2.9.0
 imagesize==1.2.0
 importlib-metadata==4.8.1
 inflection==0.5.1
