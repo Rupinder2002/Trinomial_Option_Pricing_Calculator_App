@@ -48,7 +48,7 @@ cloudpickle==2.0.0
 colorama==0.4.4
 commonmark==0.9.1
 comtypes==1.1.10
-conda==22.9.0
+#conda==22.9.0
 conda-build==3.21.6
 conda-content-trust==0+unknown
 conda-pack==0.6.0
