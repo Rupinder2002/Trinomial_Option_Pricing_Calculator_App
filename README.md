@@ -1,5 +1,5 @@
 # Trinomial_Option_Pricing_Calculator_App
-[![Binder](https://hub.gke2.mybinder.org/user/shiladitya146-t-_calculator_app-adp4hjox/voila/render/Trinomial_Tree_Option_Pricing.ipynb?token=Bys0U0ZFQkCdh6NPdHHzVA)
+[![Binder](https://hub.gke2.mybinder.org/user/shiladitya146-t-_calculator_app-adp4hjox/voila/render/Trinomial_Tree_Option_Pricing.ipynb)
 1. <font color=royalblue>Workbook defines a trinomial function which can be used  to evaluate Vanilla and Single Barrier Option</font>
 2. <font color=royalblue>Support both American & European Style</font>
 3. <font color=royalblue>Supported barrier pricing:</font>
