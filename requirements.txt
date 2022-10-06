@@ -255,7 +255,7 @@ Rtree==0.9.7
 schedule==1.1.0
 scikit-image==0.18.3
 scikit-learn==0.24.2
-scikit-learn-intelex==2021.20210714.120553
+#scikit-learn-intelex==2021.20210714.120553
 scipy==1.7.1
 seaborn==0.11.2
 Send2Trash==1.8.0
