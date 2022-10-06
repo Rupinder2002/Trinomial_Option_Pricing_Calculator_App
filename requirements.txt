@@ -55,7 +55,7 @@ conda-pack==0.6.0
 #conda-package-handling==1.7.3
 #conda-repo-cli==1.0.4
 #conda-token==0.3.0
-conda-verify==3.4.2
+#conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cookiecutter==1.7.2
 cryptography==3.4.8
