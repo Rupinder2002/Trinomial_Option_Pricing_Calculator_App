@@ -16,7 +16,7 @@ argh==0.26.2
 atomicwrites==1.4.0
 #attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
 #autopep8 @ file:///tmp/build/80754af9/autopep8_1620866417880/work
-Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+#Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
 #backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 #backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
 #backports.shutil-get-terminal-size @ file:///tmp/build/80754af9/backports.shutil_get_terminal_size_1608222128777/work
@@ -93,8 +93,8 @@ google-auth-oauthlib==0.5.2
 gspread==5.4.0
 gspread-dataframe==3.3.0
 #h5py @ file:///C:/ci/h5py_1622088609188/work
-HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
-html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
+#HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
+#html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
 iam-units==2022.6.14
 #idna @ file:///tmp/build/80754af9/idna_1622654382723/work
 #imagecodecs @ file:///C:/ci/imagecodecs_1635511087451/work
@@ -105,102 +105,102 @@ inflection==0.5.1
 #iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
 #intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
 #ipykernel @ file:///C:/ci/ipykernel_1633545585502/work/dist/ipykernel-6.4.1-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1635944283918/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
-isort @ file:///tmp/build/80754af9/isort_1628603791788/work
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
-jdcal @ file:///Users/ktietz/demo/mc3/conda-bld/jdcal_1630584345063/work
-jedi @ file:///C:/ci/jedi_1611341083684/work
+#ipython @ file:///C:/ci/ipython_1635944283918/work
+#ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+#ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
+#isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+#itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+#jdcal @ file:///Users/ktietz/demo/mc3/conda-bld/jdcal_1630584345063/work
+#jedi @ file:///C:/ci/jedi_1611341083684/work
 Jinja2==3.1.2
-jinja2-time @ file:///tmp/build/80754af9/jinja2-time_1617751524098/work
-joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
-json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
-jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
-jupyter @ file:///C:/ci/jupyter_1607685287094/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
+#jinja2-time @ file:///tmp/build/80754af9/jinja2-time_1617751524098/work
+#joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+#json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
+#jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
+#jupyter @ file:///C:/ci/jupyter_1607685287094/work
+#jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+#jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
 jupyter-core==4.11.1
 jupyter-server==1.19.1
-jupyterlab @ file:///tmp/build/80754af9/jupyterlab_1635799997693/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1633419203660/work
-jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
-keyring @ file:///C:/ci/keyring_1629321702436/work
-kiwisolver @ file:///C:/ci/kiwisolver_1612282555033/work
-lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529288960/work
-libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
+#jupyterlab @ file:///tmp/build/80754af9/jupyterlab_1635799997693/work
+#jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+#jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1633419203660/work
+#jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+#keyring @ file:///C:/ci/keyring_1629321702436/work
+#kiwisolver @ file:///C:/ci/kiwisolver_1612282555033/work
+#lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529288960/work
+#libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
 llvmlite==0.37.0
 locket==0.2.1
-lxml @ file:///C:/ci/lxml_1616443418777/work
+#lxml @ file:///C:/ci/lxml_1616443418777/work
 MarkupSafe==2.1.1
-matplotlib @ file:///C:/ci/matplotlib-suite_1634667159685/work
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+#matplotlib @ file:///C:/ci/matplotlib-suite_1634667159685/work
+#matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
 mccabe==0.6.1
-menuinst @ file:///C:/ci/menuinst_1631733438520/work
-mistune @ file:///C:/ci/mistune_1607359457024/work
+#menuinst @ file:///C:/ci/menuinst_1631733438520/work
+#mistune @ file:///C:/ci/mistune_1607359457024/work
 mkl-fft==1.3.1
-mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
+#mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
 mkl-service==2.4.0
-mock @ file:///tmp/build/80754af9/mock_1607622725907/work
-more-itertools @ file:///tmp/build/80754af9/more-itertools_1635423142362/work
+#mock @ file:///tmp/build/80754af9/mock_1607622725907/work
+#more-itertools @ file:///tmp/build/80754af9/more-itertools_1635423142362/work
 mpmath==1.2.1
-msgpack @ file:///C:/ci/msgpack-python_1612287350784/work
-multipledispatch @ file:///C:/ci/multipledispatch_1607574329826/work
+#msgpack @ file:///C:/ci/msgpack-python_1612287350784/work
+#multipledispatch @ file:///C:/ci/multipledispatch_1607574329826/work
 munkres==1.1.4
 mypy-extensions==0.4.3
 navigator-updater==0.2.1
-nbclassic @ file:///tmp/build/80754af9/nbclassic_1616085367084/work
-nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
+#nbclassic @ file:///tmp/build/80754af9/nbclassic_1616085367084/work
+#nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
 nbconvert==6.5.4
 nbformat==5.6.1
-nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
-networkx @ file:///tmp/build/80754af9/networkx_1633639043937/work
+#nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+#networkx @ file:///tmp/build/80754af9/networkx_1633639043937/work
 nltk==3.6.5
-nose @ file:///tmp/build/80754af9/nose_1606773131901/work
-notebook @ file:///C:/ci/notebook_1635393701545/work
+#nose @ file:///tmp/build/80754af9/nose_1606773131901/work
+#notebook @ file:///C:/ci/notebook_1635393701545/work
 nsepy==0.8
-numba @ file:///C:/ci/numba_1635186062888/work
-numexpr @ file:///C:/ci/numexpr_1618856728739/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1626271900803/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+#numba @ file:///C:/ci/numba_1635186062888/work
+#numexpr @ file:///C:/ci/numexpr_1618856728739/work
+#numpy @ file:///C:/ci/numpy_and_numpy_base_1626271900803/work
+#numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 oauthlib==3.2.0
-olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
-packaging @ file:///tmp/build/80754af9/packaging_1625611678980/work
+#olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+#openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
+#packaging @ file:///tmp/build/80754af9/packaging_1625611678980/work
 pandas==1.4.3
-pandocfilters @ file:///C:/ci/pandocfilters_1605114832805/work
-paramiko @ file:///tmp/build/80754af9/paramiko_1598886428689/work
+#pandocfilters @ file:///C:/ci/pandocfilters_1605114832805/work
+#paramiko @ file:///tmp/build/80754af9/paramiko_1598886428689/work
 parse==1.19.0
-parso @ file:///tmp/build/80754af9/parso_1617223946239/work
-partd @ file:///tmp/build/80754af9/partd_1618000087440/work
-path @ file:///C:/ci/path_1624287837534/work
-pathlib2 @ file:///C:/ci/pathlib2_1625585796814/work
+#parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+#partd @ file:///tmp/build/80754af9/partd_1618000087440/work
+#path @ file:///C:/ci/path_1624287837534/work
+#pathlib2 @ file:///C:/ci/pathlib2_1625585796814/work
 pathspec==0.7.0
 patsy==0.5.2
 pep8==1.7.1
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+#pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+#pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.4.0
 Pint==0.18
 pipreqs==0.4.11
 pkginfo==1.8.3
-pluggy @ file:///C:/ci/pluggy_1615976440052/work
+#pluggy @ file:///C:/ci/pluggy_1615976440052/work
 ply==3.11
-poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
-prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1623189609245/work
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+#poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
+#prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1623189609245/work
+#prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
 property-cached==1.6.4
-psutil @ file:///C:/ci/psutil_1612298199233/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-py @ file:///tmp/build/80754af9/py_1607971587848/work
+#psutil @ file:///C:/ci/psutil_1612298199233/work
+#ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+#py @ file:///tmp/build/80754af9/py_1607971587848/work
 pyam==0.2.1a0
 pyam-iamc==1.5.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1615748559966/work
+#pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1615748559966/work
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+#pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pycurl==7.44.1
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1621600989141/work
 pyee==8.2.2
