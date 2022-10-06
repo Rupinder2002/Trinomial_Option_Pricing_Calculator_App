@@ -3,7 +3,7 @@ anaconda==0.0.1.1
 #anaconda-client==1.9.0
 #anaconda-navigator==2.1.1
 #anaconda-project==0.10.1
-anyio==3.6.1
+#anyio==3.6.1
 appdirs==1.4.4
 arch==5.2.0
 argh==0.26.2
