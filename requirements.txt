@@ -202,7 +202,7 @@ pyasn1-modules==0.2.8
 pycodestyle==2.7.0
 pycosat==0.6.3
 pycparser==2.20
-pycurl==7.44.1
+#pycurl==7.44.1
 pydocstyle==6.1.1
 pyee==8.2.2
 pyerfa==2.0.0
