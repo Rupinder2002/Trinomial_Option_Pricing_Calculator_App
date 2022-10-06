@@ -304,7 +304,7 @@ traitlets==5.1.0
 twine==4.0.1
 typed-ast==1.4.3
 typing-extensions==3.10.0.2
-json==4.0.2
+ujson==4.0.2
 unicodecsv==0.14.1
 Unidecode==1.2.0
 urllib3==1.26.7
