@@ -7,5 +7,5 @@
     2. **UP-IN**
     3. **DOWN-OUT**
     4. **DOWN-IN**
-4. <font color=royalblue>Note:Does not yet support dividend payments and rebates. Will be incoporated in future versions</font>
+4. <font color=royalblue>Note:Does not yet support dividend payments and rebates. Will be incorporated in future versions</font>
 
